@@ -1,4 +1,4 @@
-# floodWebsite-performanceTester  
+# Website-performanceTester  
 [![Scripting](https://img.shields.io/badge/scripting-bash-9cf.svg)](https://fr.wikibooks.org/wiki/Programmation_Bash/Scripts)
 [![Cmd](https://img.shields.io/badge/cmd-curl-blue.svg)](https://www.it-connect.fr/curl-loutil-testeur-des-protocoles-divers/)  
 Script allowing me to flood an api, or a website with HTTP GET to test monitoring of the website with some soft like Centreon, Grafana etc....
